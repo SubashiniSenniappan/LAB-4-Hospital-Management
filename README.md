@@ -1,4 +1,4 @@
-![281627187-0f55420b-287e-4a05-906f-259c809f26de](https://github.com/SubashiniSenniappan/LAB-4-Hospital-Management/assets/119404951/5525a26d-52a9-46b8-b287-d9378eec6f01)![image](https://github.com/SubashiniSenniappan/LAB-4-Hospital-Management/assets/119404951/95b096f9-d510-497d-bc15-ece982e5a3b3)![281625981-6c19e784-7d92-4cb5-86d7-aa7d7ef93120](https://github.com/SubashiniSenniappan/LAB-4-Hospital-Management/assets/119404951/ab00c6c0-67ed-4ead-8f1d-9b8dc78379d2)# LAB-4-Hospital-Management
+# LAB-4-Hospital-Management
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
